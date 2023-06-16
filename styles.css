@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    border: 0;
+    background-color: rgb(171, 171, 171);
+  }
+  
+  h1 {
+    color: #333;
+    margin: 0;
+  }
+  
+  p {
+    color: #1e1d1d;
+    margin: 50px;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    margin-right: 0px;
+    margin-left: 100px;
+  }
+  
+  .nav-buttons a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 6px 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    display: flex;
+
+  }
+  
+  .nav-buttons a:hover {
+    display: flex;
+    background-color: #666;
+  }
+  
+  .project {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .project h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .project p {
+    margin-top: 5px;
+  }
+
+  .cabecario{
+    position: fixed;
+    margin: 1px;
+    background-color: blueviolet;
+    color: blueviolet;
+    top: 0px;
+    height: 100px;
+    padding: 0;
+    width: 100%;
+    border: 2px;
+    border-color:#333;
+    
+
+  }
+  head{
+    margin: 0;
+  }
+
+  .about{
+    text-align: center;
+}
+.foto{
+    margin-top: 120px;
+    justify-content: center;
+    display: flex;
+}
+
+.fotoperfil{
+    width: 180px;
+    height: 170px;
+    border-radius: 50%;
+    border: 2px black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.nome{
+    padding: 0; color: rgb(61, 54, 54);
+    margin: 0;
+    display: flex; 
+    margin-left: 10px;
+}
+.cabinf{
+    justify-content: space-between;
+    display: flex;
+    margin: 0;
+    
+}
+h2{
+    color: #1e1d1d;
+}
+li{
+    color: #1e1d1d;
+}
